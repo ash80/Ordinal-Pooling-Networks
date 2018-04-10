@@ -1,6 +1,6 @@
 # Ordinal Pooling Networks
 
-This repository contains the sample code for the implementation of Ordinal Pooling Networks (OPNs). For more details on this scheme, please refer to Ordinal Pooling Networks paper on [arXiv](<link>).
+This repository contains the sample code for the implementation of Ordinal Pooling Networks (OPNs). For more details on this scheme, please refer to Ordinal Pooling Networks paper on [arXiv](https://arxiv.org/abs/1804.02702).
 
 ### Description of the files
 
